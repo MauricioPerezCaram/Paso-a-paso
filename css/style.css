@@ -1,29 +1,27 @@
 body {
-    background-color: #191919;
-    padding: 15px 50px;
+    background-color: BLACK;
+    color: beige;
+    padding-left:  20px;
 }
-
 h1 {
-    color: aqua;
     text-align: center;
-    font-size: 54px;
+    font-size: 60px;
 }
-
-h2{
-    color: aqua;
+h2 {
+    font-size: 50px;
     text-align: center;
 }
-h3{
-    color: aqua;
-    text-align: center;
-}
-
 ol li {
-    color: aqua;
-    font-size: 54px;
+    font-size: 30px;
 }
-p {
-    color: aqua;
-    text-align: center;
-    font-size: 54px;
+
+p{
+    font-size: 25px;
+}
+div {
+    border: solid 1px;
+}
+
+h3 {
+    font-size: 50px;
 }
